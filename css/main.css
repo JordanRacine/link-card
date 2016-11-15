@@ -8,6 +8,7 @@ html {
   box-sizing: border-box;
   background: #f0eee8;
   font-family: Georgia;
+  box-sizing: border-box;
 }
 
 *, *::before, *::after {
@@ -19,9 +20,9 @@ h2 {
 }
 
 .link-card {
-color: #512200;
-display: block;
-text-decoration: none;
+  color: #512200;
+  display: block;
+  text-decoration: none;
 }
 
 footer {
