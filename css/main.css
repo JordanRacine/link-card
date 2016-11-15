@@ -15,14 +15,13 @@ html {
 }
 
 h2 {
-  font-family: 'Dosis', sans-serif;
+  font-family: Dosis, sans-serif;
 }
 
 .link-card {
 color: #512200;
 display: block;
 text-decoration: none;
-
 }
 
 footer {
@@ -32,4 +31,12 @@ footer {
 p{
   font-size: 1rem;
   color: #512200;
+}
+
+.link-card:hover {
+background-color: #cabdb2;
+}
+
+.link-card h2 {
+background-color: #dcd4cd;
 }
