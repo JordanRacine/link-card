@@ -7,12 +7,24 @@
 html {
   box-sizing: border-box;
   background: #cabdb2;
+  font-family: Georgia;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-h1 {
+h2 {
   font-family: 'Dosis', sans-serif;
+}
+
+.link-card {
+color: #512200;
+display: block;
+text-decoration: none;
+
+}
+
+footer {
+  text-align: center;
 }
