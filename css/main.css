@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  background: #cabdb2;
+  background: #f0eee8;
   font-family: Georgia;
 }
 
@@ -31,4 +31,5 @@ footer {
 
 p{
   font-size: 1rem;
+  color: #512200;
 }
